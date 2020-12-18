@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+"No tengo idea de si es el espación correcto"
 Utiliza la flecha hacia la izquierda para volver!
